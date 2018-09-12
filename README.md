@@ -2,7 +2,7 @@
 (January to September 2017)
 
 ## Topics
-TERM 1:
+TERM 1: 
 Game Playing
 * Constraint Propagation
 * Search
@@ -41,6 +41,7 @@ Logic and Reasoning
 
 Planning Search
 * Classical Planning
+* Planning Domain Definition Language (PDDL)
 * Progression Search
 * Regression Search
 * Plan Space Search
@@ -55,7 +56,7 @@ Hidden Markov Models(HMMs)
 * Hidden Markov Models
 * First Order Markov Models
 
-TERM 2:
+TERM 2: 
 Deep Neural Networks
 * Perceptrons
 * Error Functions
@@ -101,18 +102,83 @@ Autoencoders
 * Convolution Autoencoder
 
 Recurrent Neural Networks (RNNs)
-*
+* Vanilla Supervised Learners
+* Recursive Sequences
+* Real Time Series Example
+* RNN as a Generator
+
+Long Short-Term Memory Networks (LSTMs)
+* Forget Gate
+* Learn Gate
+* Remember Gate
+* Use (Output) Gate
+* LSTM Architecture
+* Gate Recurrent Units (GRUs)
+
+Implementing RNNs and LSTMs
+* Character-wise RNNs
+* Sequence Batching
+* LSTM Cell
+* Network Loss
+
+Hyperparameters
+* Learning Rate
+* Minibatch Size
+* Number of Training Iterations / Epochs
+* Number of Hidden Units / Layers
+* Cell Type (RNNs)
+* Number of Layers (RNNs)
+* Size of Embedding (RNNs)
+
+Sentiment Prediction with RNNs
+* Embedding
+* Data Preprocessing
+* Creating Testing Sets
+* Training the Network
+
+Generative Adversarial Networks (GANs)
+* GAN Types: StackGAN, iGAN (eg. Pix2Pix), CycleGAN
+* Discriminator Network
+* Generator Network
+* Training Losses
+* Training Optimizers
+* Batch Normalization
+* Deep Convolutional GANs (DCGANs)
+* DCGAN Architecture
+
+Semisupervised Learning
+* Semi-supervised Classification with GANs
+* Feature Matching
+* Moment Matching
+
+TERM 2 Concentrations: 
+Computer Vision
+* tbd
 
 Tools
+* NumPy
+* matplotlib
+* pandas
+* scikit-learn
+* Anaconda
 * Keras
 * Jupyter Notebooks
 * TensorFlow
-* AWS GPU Instances
+* AWS EC2 GPU Instances
+* Affectiva
+
+Models
+* VGG-16
 
 Databases
 * MNIST
 * cifar10
-* VGC-16
+* 
+VGC-16
+
+Languages
+* Python
+* Javascript
 
 ## Projects  
 Project 1 - [Diagonal Sodoku Solver][1]  
@@ -121,18 +187,20 @@ Project 2 - [Build a Game-playing Agent][2]
 Project 3 - [Implement a Planning Search][6]  
 ![Picture](/project-3-planning/images/Progression.PNG)  
 Project 4 - [Sign Language Recognition System][7]  
-Mini Project 5 - [Student Admissions][8]
-Mini Project 6 - [IMDB Data][8]
-Mini Project 7 - [Training an MLP on MNIST][9]
-Mini Project 8 - [CNNs in Keras][10]
-Mini Project 9 - [Image Augmentation in Keras][11]
-Project 10 - [Dog Breed Classifier][12]
+Mini Project 5 - [Student Admissions][8]  
+Mini Project 6 - [IMDB Data][8] 
+Mini Project 7 - [Training an MLP on MNIST][9]  
+Mini Project 8 - [CNNs in Keras][10]  
+Mini Project 9 - [Image Augmentation in Keras][11]  
+Project 10 - [Dog Breed Classifier][12] 
+Project 11 - [Time Series Prediction and Text Generation][14] 
+Project 12 - [Computer Vision - Mimic Me][15]
 
 ## Labs  
 Lab 1 - [Pac-Man Search][3]   
 Lab 2 - [Simulated Annealing][4]  
 Lab 3 - [Constraint Satisfaction][5]    
-Lab 4 - [TenslorFlow Neural Network][13]
+Lab 4 - [TenslorFlow Neural Network][13]  
 
 
 [//]: # (Links Section)
@@ -149,4 +217,6 @@ Lab 4 - [TenslorFlow Neural Network][13]
 [11]:https://github.com/udacity/aind2-cnn/cifar10-augmentation
 [12]:https://github.com/udacity/dog-project
 [13]:https://github.com/udacity/deep-learning
+[14]:https://github.com/udacity/aind2-rnn
+[15]:https://github.com/udacity/AIND-CV-Mimic
 

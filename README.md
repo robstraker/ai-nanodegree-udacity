@@ -152,29 +152,52 @@ Semisupervised Learning
 * Moment Matching
 
 TERM 2 Concentrations: 
-Computer Vision
-* tbd
+Computer Vision (CV)
+* Display Feature Points
+* Show Dominant Emoji
+
+Natural Language Processing (NLP)
+* Watson Discovery Service
+* Ingest Documents
+* Parse Natural Language Questions
+* Query Document Collection to Fetch Answers
+
+Voice User Interfaces (VUIs)
+* Unit Testing
+* Adding Features
+* Adding Conversational Elements
+* Deploying Skill
 
 Tools
 * NumPy
 * matplotlib
 * pandas
 * scikit-learn
+* sklearn
+* cv2
 * Anaconda
 * Keras
 * Jupyter Notebooks
 * TensorFlow
+
+Services
 * AWS EC2 GPU Instances
-* Affectiva
+* Affectiva Emotion-as-a-Service API
+* IBM Watson NLP Services
+* Amazon Alexa Skills Kit SDK
 
 Models
 * VGG-16
+* ResNet-50
+* VGG-19
+* Inception
+* Xception
 
 Databases
 * MNIST
 * cifar10
-* 
-VGC-16
+* notMNIST
+* ImageNET
 
 Languages
 * Python
@@ -188,13 +211,16 @@ Project 3 - [Implement a Planning Search][6]
 ![Picture](/project-3-planning/images/Progression.PNG)  
 Project 4 - [Sign Language Recognition System][7]  
 Mini Project 5 - [Student Admissions][8]  
-Mini Project 6 - [IMDB Data][8] 
+Mini Project 6 - [IMDB Data][8]   
 Mini Project 7 - [Training an MLP on MNIST][9]  
 Mini Project 8 - [CNNs in Keras][10]  
 Mini Project 9 - [Image Augmentation in Keras][11]  
-Project 10 - [Dog Breed Classifier][12] 
-Project 11 - [Time Series Prediction and Text Generation][14] 
+Project 10 - [Dog Breed Classifier][12]   
+Project 11 - [Time Series Prediction and Text Generation][14]   
 Project 12 - [Computer Vision - Mimic Me][15]
+Project 13 - [Natural Language Processing - Bookworm][16]
+Project 14 - [Voice User Interface - Alexa History Skill][17]
+Capstone Project 15 - [Computer Vision - Facial Keypoint Detection][18]
 
 ## Labs  
 Lab 1 - [Pac-Man Search][3]   
@@ -209,14 +235,16 @@ Lab 4 - [TenslorFlow Neural Network][13]
 [3]:http://inst.eecs.berkeley.edu/~cs188/pacman/project_overview.html
 [4]:https://github.com/udacity/AIND-Simulated_Annealing
 [5]:https://github.com/udacity/AIND-Constraint_Satisfaction
-[6]:https://github.com/udacity/AIND-Planning
+[6]:https://github.com/udacity/AIND-Planning  
 [7]:https://github.com/udacity/AIND-Recognizer
 [8]:https://github.com/udacity/aind2-dl
 [9]:https://github.com/udacity/aind2-cnn/mnist-mlp
-[10]:https://github.com/udacity/aind2-cnn/cifar10-classification
-[11]:https://github.com/udacity/aind2-cnn/cifar10-augmentation
-[12]:https://github.com/udacity/dog-project
-[13]:https://github.com/udacity/deep-learning
-[14]:https://github.com/udacity/aind2-rnn
+[10]:https://github.com/udacity/aind2-cnn/cifar10-classification  
+[11]:https://github.com/udacity/aind2-cnn/cifar10-augmentation  
+[12]:https://github.com/udacity/dog-project 
+[13]:https://github.com/udacity/deep-learning/intro-to-tensorflow 
+[14]:https://github.com/udacity/aind2-rnn 
 [15]:https://github.com/udacity/AIND-CV-Mimic
-
+[16]:https://github.com/udacity/AIND-NLP-Bookworm
+[17]:https://github.com/udacity/AIND-VUI-Alexa
+[18]:https://github.com/udacity/AIND-CV-FacialKeypoints

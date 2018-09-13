@@ -55,6 +55,7 @@ Hidden Markov Models(HMMs)
 * Hidden Markov Models
 * First Order Markov Models
 
+
 TERM 2: Deep Neural Networks
 * Perceptrons
 * Error Functions
@@ -149,21 +150,90 @@ Semisupervised Learning
 * Feature Matching
 * Moment Matching
 
-TERM 2 Concentrations: Computer Vision (CV)
-* Display Feature Points
-* Show Dominant Emoji
+
+TERM 2 Concentrations: 
+Computer Vision (CV) - Image Representation and Analysis
+* Computer Vision Pipeline
+* Pre-Processing
+* Color Spaces
+* Geometric Transforms
+* High-Pass Filters
+* Gradients
+* Sobel Filters
+* Low-Pass Filters
+* Guassian Blur
+* Canny Edge Detector
+
+CV - Image Segmentation
+* Hough Transform
+* Hough Line Detection
+* K-means Clustering
+
+CV - Features and Object Recognition
+* Corner Detectors
+* Dilation and Erosion
+* Histogram of Oriented Gradients (HOG)
+* Support Vector Machine (SVM)
+* Haar Cascades
+* Optical Flow
 
 Natural Language Processing (NLP)
-* Watson Discovery Service
-* Ingest Documents
-* Parse Natural Language Questions
-* Query Document Collection to Fetch Answers
+* NLP Pipeline
+* Feature Extraction
+* Modeling
+
+NLP - Text Processing
+* Capturing Text Data
+* Cleaning
+* Normalization
+* Tokenization
+* Stop Word Removal
+* Part-of-Speech Tagging
+* Stemming and Lemmatization
+
+NLP - Feature Extraction
+* TF-IDF
+* One-Hote Encoding
+* Word Embeddings
+* Word2Vec
+* GloVe
+* t-SNE
+
+NLP - Modeling
+* Language Model
+* Sentiment Analysis
+* Topic Modeling
+* Latent Dicrichlet Allocation (LDA)
+* Machine Translation
+
+NLP - Embeddings and Word2Vec
+* Implementing Word2Vec
+* Sub Sampling
+* Making Batches
+* Negative Sampling
+
+NLP - Sequence to Sequence
+* Sequence to Sequence RNNs
+* Retrieval-Based Chatbot Models
+* Generative Chatbot Models
 
 Voice User Interfaces (VUIs)
-* Unit Testing
-* Adding Features
-* Adding Conversational Elements
-* Deploying Skill
+* Speech Recognition (Voice to Text)
+* Reasoning Logic (Text to Text)
+* Speech Synthesis (Text to Speech)
+
+VUI - Speech Recognition
+* Automatic Speech Recognition (ASR)
+* Signal Analysis
+* Fourier Analysis
+* Spectrograms
+* Fast Fourier Transforms (FFTs)
+* Mel Frequency Cepstral Coefficient Analysis (MFCC)
+* Feature Extraction with MFCC
+* Hidden Markov Models (HMMs) in Speech Recognition
+* N-Grams
+* Connectionist Temporal Classification (CTC)
+
 
 ## Technology
 Tools and Libraries
@@ -226,9 +296,13 @@ Project 7 - [Computer Vision - Mimic Me][15]
 Project 8 - [Natural Language Processing - Bookworm][16]    
 Project 9 - [Voice User Interface - Alexa History Skill][17]
 
-## Term 2 Capstone Projects
+## Term 2 Capstone Projects and Labs
 Capstone Project 1 - [Computer Vision - Facial Keypoint Detection][18]
-
+Lab 5 - [NLP: Sentiment Analysis][19]
+Capstone Project 2 - [Natural Language Processing - Machine Translation][20]
+Lab 6 - [VUI: Space Geek][21]
+Lab 7 - [VUI: Voice Data Lab][22]
+Capstone Project 3 - [Voice User Interfaces - DNN Speech Recognizer][23]
 
 [//]: # (Links Section)
 [1]:https://github.com/udacity/AIND-Sudoku
@@ -249,3 +323,10 @@ Capstone Project 1 - [Computer Vision - Facial Keypoint Detection][18]
 [16]:https://github.com/udacity/AIND-NLP-Bookworm
 [17]:https://github.com/udacity/AIND-VUI-Alexa
 [18]:https://github.com/udacity/AIND-CV-FacialKeypoints
+[19]:https://github.com/udacity/AIND-NLP
+[20]:https://github.com/udacity/aind2-nlp-capstone
+[21]:https://github.com/udacity/AIND-VUI-Alexa
+[22]:https://github.com/udacity/AIND-VUI-Lab-Voice-Data
+[23]:https://github.com/udacity/AIND-VUI-Capstone
+
+

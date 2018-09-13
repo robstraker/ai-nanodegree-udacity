@@ -291,18 +291,22 @@ Mini Project 4 - [CNNs in Keras][9]
 Mini Project 5 - [Image Augmentation in Keras][9]  
 Project 5 - [Dog Breed Classifier][10]   
 Lab 4 - [TensorFlow Neural Network][11]  
-Project 6 - [Time Series Prediction and Text Generation][12]   
+Project 6 - [Time Series Prediction and Text Generation][12]  
+![Picture](/project-6-rnn-time-series-prediction/images/apple_RNN_prediction.PNG)  
 Project 7 - [Computer Vision - Mimic Me][13]    
 Project 8 - [Natural Language Processing - Bookworm][14]    
 Project 9 - [Voice User Interface - Alexa History Skill][15]
+![Picture](/project-9-VUI-Alexa/images/skillOverview.PNG)  
 
 ## Term 2 Capstone Projects and Labs
 Capstone Project 1 - [Computer Vision - Facial Keypoint Detection][16]  
+![Facial keypoint test](/capstone-project-1-CV-FacialKeypoints/images/facial_keypoint_test.gif) 
 Lab 5 - [NLP: Sentiment Analysis][17]   
 Capstone Project 2 - [Natural Language Processing - Machine Translation][18]    
-Lab 6 - [VUI: Space Geek][17]   
+Lab 6 - [VUI: Space Geek][15]   
 Lab 7 - [VUI: Voice Data Lab][19]   
 Capstone Project 3 - [Voice User Interfaces - DNN Speech Recognizer][20]
+![Picture](/capstone-project-3-VUI-DNN_Speech_Recognizer/images/pipeline.PNG)  
 
 [//]: # (Links Section)
 [1]:https://github.com/udacity/AIND-Sudoku

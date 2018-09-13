@@ -287,22 +287,22 @@ Project 4 - [Sign Language Recognition System][7]
 Mini Project 1 - [Student Admissions in Keras][8]  
 Mini Project 2 - [IMDB Data in Keras][8]   
 Mini Project 3 - [Training an MLP on MNIST][9]  
-Mini Project 4 - [CNNs in Keras][10]  
-Mini Project 5 - [Image Augmentation in Keras][11]  
-Project 5 - [Dog Breed Classifier][12]   
-Lab 4 - [TenslorFlow Neural Network][13]  
-Project 6 - [Time Series Prediction and Text Generation][14]   
-Project 7 - [Computer Vision - Mimic Me][15]    
-Project 8 - [Natural Language Processing - Bookworm][16]    
-Project 9 - [Voice User Interface - Alexa History Skill][17]
+Mini Project 4 - [CNNs in Keras][9]  
+Mini Project 5 - [Image Augmentation in Keras][9]  
+Project 5 - [Dog Breed Classifier][10]   
+Lab 4 - [TensorFlow Neural Network][11]  
+Project 6 - [Time Series Prediction and Text Generation][12]   
+Project 7 - [Computer Vision - Mimic Me][13]    
+Project 8 - [Natural Language Processing - Bookworm][14]    
+Project 9 - [Voice User Interface - Alexa History Skill][15]
 
 ## Term 2 Capstone Projects and Labs
-Capstone Project 1 - [Computer Vision - Facial Keypoint Detection][18]  
-Lab 5 - [NLP: Sentiment Analysis][19]   
-Capstone Project 2 - [Natural Language Processing - Machine Translation][20]    
-Lab 6 - [VUI: Space Geek][21]   
-Lab 7 - [VUI: Voice Data Lab][22]   
-Capstone Project 3 - [Voice User Interfaces - DNN Speech Recognizer][23]
+Capstone Project 1 - [Computer Vision - Facial Keypoint Detection][16]  
+Lab 5 - [NLP: Sentiment Analysis][17]   
+Capstone Project 2 - [Natural Language Processing - Machine Translation][18]    
+Lab 6 - [VUI: Space Geek][17]   
+Lab 7 - [VUI: Voice Data Lab][19]   
+Capstone Project 3 - [Voice User Interfaces - DNN Speech Recognizer][20]
 
 [//]: # (Links Section)
 [1]:https://github.com/udacity/AIND-Sudoku
@@ -313,20 +313,17 @@ Capstone Project 3 - [Voice User Interfaces - DNN Speech Recognizer][23]
 [6]:https://github.com/udacity/AIND-Planning  
 [7]:https://github.com/udacity/AIND-Recognizer
 [8]:https://github.com/udacity/aind2-dl
-[9]:https://github.com/udacity/aind2-cnn/mnist-mlp
-[10]:https://github.com/udacity/aind2-cnn/cifar10-classification  
-[11]:https://github.com/udacity/aind2-cnn/cifar10-augmentation  
-[12]:https://github.com/udacity/dog-project 
-[13]:https://github.com/udacity/deep-learning/intro-to-tensorflow 
-[14]:https://github.com/udacity/aind2-rnn 
-[15]:https://github.com/udacity/AIND-CV-Mimic
-[16]:https://github.com/udacity/AIND-NLP-Bookworm
-[17]:https://github.com/udacity/AIND-VUI-Alexa
-[18]:https://github.com/udacity/AIND-CV-FacialKeypoints
-[19]:https://github.com/udacity/AIND-NLP
-[20]:https://github.com/udacity/aind2-nlp-capstone
-[21]:https://github.com/udacity/AIND-VUI-Alexa
-[22]:https://github.com/udacity/AIND-VUI-Lab-Voice-Data
-[23]:https://github.com/udacity/AIND-VUI-Capstone
+[9]:https://github.com/udacity/aind2-cnn
+[10]:https://github.com/udacity/dog-project 
+[11]:https://github.com/udacity/deep-learning
+[12]:https://github.com/udacity/aind2-rnn 
+[13]:https://github.com/udacity/AIND-CV-Mimic
+[14]:https://github.com/udacity/AIND-NLP-Bookworm
+[15]:https://github.com/udacity/AIND-VUI-Alexa
+[16]:https://github.com/udacity/AIND-CV-FacialKeypoints
+[17]:https://github.com/udacity/AIND-NLP
+[18]:https://github.com/udacity/aind2-nlp-capstone
+[19]:https://github.com/udacity/AIND-VUI-Lab-Voice-Data
+[20]:https://github.com/udacity/AIND-VUI-Capstone
 
 

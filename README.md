@@ -1,8 +1,8 @@
 # Udacity Artificial Intelligence Nanodegree
 (January to September 2017)
 
-## Topics
-TERM 1: Game Playing
+## Term 1 Topics
+Game Playing
 * Constraint Propagation
 * Search
 * A* Search
@@ -56,7 +56,8 @@ Hidden Markov Models(HMMs)
 * First Order Markov Models
 
 
-TERM 2: Deep Neural Networks
+## Term 2 Topics
+Deep Neural Networks
 * Perceptrons
 * Error Functions
 * Softmax Function
@@ -151,7 +152,7 @@ Semisupervised Learning
 * Moment Matching
 
 
-TERM 2 Concentrations: 
+## Term 2 Concentration Topics
 Computer Vision (CV) - Image Representation and Analysis
 * Computer Vision Pipeline
 * Pre-Processing
@@ -234,8 +235,7 @@ VUI - Speech Recognition
 * N-Grams
 * Connectionist Temporal Classification (CTC)
 
-
-## Technology
+## Technologies
 Tools and Libraries
 * NumPy (Scientific Library)
 * matplotlib (2D Plotting Library)
@@ -297,11 +297,11 @@ Project 8 - [Natural Language Processing - Bookworm][16]
 Project 9 - [Voice User Interface - Alexa History Skill][17]
 
 ## Term 2 Capstone Projects and Labs
-Capstone Project 1 - [Computer Vision - Facial Keypoint Detection][18]
-Lab 5 - [NLP: Sentiment Analysis][19]
-Capstone Project 2 - [Natural Language Processing - Machine Translation][20]
-Lab 6 - [VUI: Space Geek][21]
-Lab 7 - [VUI: Voice Data Lab][22]
+Capstone Project 1 - [Computer Vision - Facial Keypoint Detection][18]  
+Lab 5 - [NLP: Sentiment Analysis][19]   
+Capstone Project 2 - [Natural Language Processing - Machine Translation][20]    
+Lab 6 - [VUI: Space Geek][21]   
+Lab 7 - [VUI: Voice Data Lab][22]   
 Capstone Project 3 - [Voice User Interfaces - DNN Speech Recognizer][23]
 
 [//]: # (Links Section)

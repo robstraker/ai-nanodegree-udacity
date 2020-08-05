@@ -151,7 +151,7 @@ Semisupervised Learning
 * Feature Matching
 * Moment Matching
 
-## Topics for Term 2 Concentrations:
+## Topics for Term 2: Concentrations:
 
 Computer Vision (CV) - Image Representation and Analysis
 * Computer Vision Pipeline

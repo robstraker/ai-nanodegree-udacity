@@ -26,22 +26,19 @@ Feel free to use the material for reference purposes or if you get stuck. Howeve
 **Term 2: Capstone Projects:**  
 *Computer Vision*. Master the computer vision skills behind advances in robotics and automation. Write programs to analyze images, implement feature extraction, and recognize objects using deep learning models.  
 
-*Natural Language Processing / Voice User Interfaces*. Master the skills to get computers to understand, process, and manipulate human language. Build models on real data, and get hands-on experience with sentiment analysis, machine translation, and more.  
+*Natural Language Processing and Voice User Interfaces*. Master the skills to get computers to understand, process, and manipulate human language. Build models on real data, and get hands-on experience with sentiment analysis, machine translation, and more.  
 
 #### Overview
 **Term 1:**  
-This program will teach you how to become a better Artificial Intelligence or Machine Learning Engineer by teaching you classical AI algorithms applied to common problem types. You will complete projects and exercises incorporating search, optimization, planning, and probabilistic graphical models which have been used in Artificial Intelligence applications for automation, logistics, operations research, and more. These concepts form the foundation for many of the most exciting advances in AI in recent years. Each project you build will be an opportunity to demonstrate what you’ve learned in your lessons, and become part of a career portfolio that will demonstrate your mastery of these skills to potential employers.
+This term will teach you how to become a better Artificial Intelligence or Machine Learning Engineer by teaching you classical AI algorithms applied to common problem types. You will complete projects and exercises incorporating search, optimization, planning, and probabilistic graphical models which have been used in Artificial Intelligence applications for automation, logistics, operations research, and more. These concepts form the foundation for many of the most exciting advances in AI in recent years. Each project you build will be an opportunity to demonstrate what you’ve learned in your lessons, and become part of a career portfolio that will demonstrate your mastery of these skills to potential employers.
 
-In order to succeed in this program, we recommend having experience with intermediate Python programming (including experience with basic algorithms, common data structures, and Object Oriented Programming), and intermediate statistics & linear algebra (including discrete & continuous distributions, vector spaces & matrices).If you’d like to prepare for this Nanodegree program, start with our AI Programming with Python Nanodegree program, then complete either our Machine Learning Engineer or Deep Learning Nanodegree programs.
-
-This program covers classical AI techniques that you will need to master to become a better AI practitioner. Specifically, we will focus on intermediate to advanced programming skills, linear algebra, and algorithms that appear in a variety of AI applications.  
+This term covers classical AI techniques that you will need to master to become a better AI practitioner. Specifically, we will focus on intermediate to advanced programming skills, linear algebra, and algorithms that appear in a variety of AI applications.  
 
 **Term 2:**  
-The Deep Learning Nanodegree program offers you a solid introduction to the world of artificial intelligence. In this program, you’ll master fundamentals that will enable you to go further in the field, launch or advance
-a career, and join the next generation of deep learning talent that will help define a beneficial, new, AI-powered future for our world. You will study cutting-edge topics such as Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks, and Network Deployment, and build projects in PyTorch and NumPy. You’ll learn from authorities such Ian Goodfellow and Jun-Yan
+This term offers you a solid introduction to the world of deep learning. In this program, you’ll master fundamentals that will enable you to go further in the field, launch or advance a career, and join the next generation of deep learning talent that will help define a beneficial, new, AI-powered future for our world. You will study cutting-edge topics such as Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks, and Network Deployment, and build projects in PyTorch and NumPy. You’ll learn from authorities such Ian Goodfellow and Jun-Yan
 Zhu, inventors of types of generative adversarial networks, as well as AI experts, Sebastian Thrun and Andrew Trask. For anyone interested in this transformational technology, this program is an ideal point-of-entry.
 
-The program is comprised of 5 courses and 5 projects. Each project you build will be an opportunity to prove your skills and demonstrate what you’ve learned in your lessons.
+The term is comprised of 4 projects. Each project you build will be an opportunity to prove your skills and demonstrate what you’ve learned in your lessons.
 
 ## Topics Covered
 **Term 1: Artificial Intelligence:**  
@@ -89,7 +86,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 **Lesson 6: Advanced Game Playing.** 
 - Learn techniques used to overcome limitations in basic minimax search like depth-limiting and alpha-beta pruning.
 - Extend adversarial search to non-deterministic domains and domains with more than two players.
-![Example Game of Isolation](./blob/master/images/isolation_game.gif)  
+![Example Game of Isolation](./blob/tree/images/isolation_game.gif)  
 - Project: [Build An Adversarial Game Playing Agent][29]
   - [Udacity Repo: AIND-Isolation][9]
   - Intelligent agents are expected to act in complex domains where their goals and objectives may not be immediately achievable. They must reason about their goals and make rational choices of actions to achieve them. 
@@ -129,7 +126,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Learn high-level features of automated planning techniques using search & symbolic logic including forward planning, backwards planning, & hierarchical planning.
 - Explore planning heuristics & planning graphs.
 
-![Progression State Space Search](/blob/master/images/progression_search.png)  
+![Progression State Space Search](/blob/tree/images/progression_search.png)  
 - Project: [Build A Forward Planning Agent][33]
   - [Udacity Repo: AIND-Planning][13]
   - Intelligent agents are expected to act in complex domains where their goals and objectives may not be immediately achievable. They must reason about their goals and make rational choices of actions to achieve them. 
@@ -213,7 +210,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - In this lesson, you’ll learn to implement a recurrent neural network for predicting sentiment. This is intended to give you more experience building RNNs.
 
 **Lesson 12: RNN Project: Time Series Prediction and Text Generation.** 
-![Apple RNN Prediction](./images/apple_rnn_prediction.png)
+![Apple RNN Prediction](./blob/tree/images/apple_rnn_prediction.png)
 - Project: [Time Series Prediction and Text Generation][39]
   - [Udacity Repo: aind2-rnn][19]
 
@@ -254,7 +251,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Use features to identify areas on a face and to recognize the shape of a car or pedestrian on a road.
 
 **Lesson 5: CV Capstone: Facial Keypoint Detection and Real-time Filtering.** 
-![Facial keypoint test](./images/facial_keypoint_test.gif)
+![Facial keypoint test](./blob/tree/images/facial_keypoint_test.gif)
 - Capstone Project: [Facial Keypoint Detection][41]
   - [Udacity Repo: AIND-CV-FacialKeypoints][21]
   - Use image processing techniques and deep learning techniques to detect faces in an image and find facial keypoints, such as the position of the eyes, nose, and mouth on a face.
@@ -306,10 +303,10 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Get familiar with the most common VUI applications.
 - Set up your AWS account and build Alexa skill with an existing template.
 - Lab 6: [Space Geek][45]   
-  - [Udacity Repo: AIND-Sudoku][25]
+  - [Udacity Repo: AIND-VUI-Alexa][25]
 
 **Lesson 2: Project: Build an Alexa History Skill.** 
-![Picture](./images/skill_overview.png)  
+![Picture](./blob/tree/images/skill_overview.png)  
 - Project: [Alexa History Skill][46]
   - [Udacity Repo: AIND-VUI-Alexa][25]
   - Learn the basics of Amazon AWS.
@@ -326,7 +323,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Learn to build probabilistic and machine learning Language models in order to extract words and grammar from sound signals.
 
 **Lesson 4: VUI Capstone: DNN Speech Recognizer.** 
-![Picture](./images/vui_pipeline.png)  
+![Picture](./blob/tree/images/vui_pipeline.png)  
 - Capstone Project: [DNN Speech Recognizer][48]
   - [Udacity Repo: AIND-VUI-Capstone][27]
   - Build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline. The model will convert raw audio into feature representations, which will then turn them into transcribed text.

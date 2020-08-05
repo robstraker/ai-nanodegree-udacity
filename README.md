@@ -69,7 +69,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Express logical constraints as Python functions.
 - Use constraint propagation & search to solve all Sudoku puzzles.  
 - Project: [Build A Sudoku Solver][28]
-  - [Udacity Repo: AIND-Sudoku][8]
+  - Udacity Repo: [AIND-Sudoku][8]
   - Humans use reason to solve problems by decomposing the problem statement and incorporating domain knowledge to limit the possible solution space. In this project you’ll use a technique called constraint propagation together with backtracking search to make an agent that only considers reasonable solution candidates and efficiently solves any Sudoku puzzle. This approach appears in many classical AI problems, and the solution techniques have been extended and applied to diverse problems in bioinformatics, logistics, and operations research.
   - In this project you will demonstrate some basic algorithms knowledge, and learn to use constraint satisfaction to solve general problems.
 
@@ -88,7 +88,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Extend adversarial search to non-deterministic domains and domains with more than two players.
 ![Example Game of Isolation](./images/isolation_game.gif)  
 - Project: [Build An Adversarial Game Playing Agent][29]
-  - [Udacity Repo: AIND-Isolation][9]
+  - Udacity Repo: [AIND-Isolation][9]
   - Intelligent agents are expected to act in complex domains where their goals and objectives may not be immediately achievable. They must reason about their goals and make rational choices of actions to achieve them. 
   - In this project you will build a system using symbolic logic to represent general problem domains and use classical search to find optimal plans for achieving your agent’s goals. Planning & scheduling systems power modern automation & logistics operations, and aerospace applications like the Hubble telescope & NASA Mars rovers.
   - In this project you will demonstrate an understanding of classical optimization & search algorithms, symbolic logic, and domain-independent planning.
@@ -99,7 +99,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Learn informed search techniques (using heuristics) including A*
 - Understand admissibility and consistency conditions for heuristics
 - Lab: [Pac-Man Search][30]
-  - [Berkeley Repo: CS188-PacMan][10]
+  - Berkeley Repo: [CS188-PacMan][10]
   - Implement informed & uninformed search for Pacman
 
 **Lesson 8: Simulated Annealing.** 
@@ -108,13 +108,13 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Learn to use Simulated Annealing for global optimization problems.
 - Explore and implement Genetic Algorithms that keep a pool of candidates to solve optimization problems
 - Lab: [Simulated Annealing][31]
-  - [Udacity Repo: AIND-Simulated_Annealing][11]
+  - Udacity Repo: [AIND-Simulated_Annealing][11]
 
 **Lesson 9: Constraint Satisfaction.** 
 - Learn to represent problems in terms of logical constraints • Use constraint propagation to limit the potential solution space.
 - Incorporate backtracking search to find a solution when the set of constraints is incomplete.
 - Lab: [Constraint Satisfaction][32]
-  - [Udacity Repo: AIND-Constraint_Satisfaction][12]
+  - Udacity Repo: [AIND-Constraint_Satisfaction][12]
 
 **Lesson 10: Logic and Reasoning.** 
 - Learn Propositional logic (propositions & statements).
@@ -128,7 +128,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 
 ![Progression State Space Search](./images/progression_search.png)  
 - Project: [Build A Forward Planning Agent][33]
-  - [Udacity Repo: AIND-Planning][13]
+  - Udacity Repo: [AIND-Planning][13]
   - Intelligent agents are expected to act in complex domains where their goals and objectives may not be immediately achievable. They must reason about their goals and make rational choices of actions to achieve them. 
   - In this project you will build a system using symbolic logic to represent general problem domains and use classical search to find optimal plans for achieving your agent’s goals. Planning & scheduling systems power modern automation & logistics operations, and aerospace applications like the Hubble telescope & NASA Mars rovers.
   - In this project you will demonstrate an understanding of classical optimization & search algorithms, symbolic logic, and domain- independent planning.
@@ -149,7 +149,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Learn an algorithm to Identify the most likely sequence of states in a model given some data.
 - Learn the dynamic time warping algorithm for time-series analysis.
 - Project: [Part Of Speech Tagging][34]
-  - [Udacity Repo: AIND-Recognizer][14]
+  - Udacity Repo: [AIND-Recognizer][14]
   - Probabilistic models allow your agents to better handle the uncertainty of the real world by explicitly modeling their belief state as a distribution over all possible states. 
   - In this project you’ll use a Hidden Markov Model (HMM) to perform part of speech tagging, a common pre-processing step in Natural Language Processing. HMMs have been used extensively in NLP, speech recognition, bioinformatics, and computer vision tasks.
 
@@ -163,9 +163,9 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Mat and Luis will introduce you to a different error function and guide you through implementing gradient descent using NumPy matrix multiplication..
 - Now that you know what neural networks are, in this lesson, you will learn several techniques to improve their training. Learn how to prevent overfitting of training data and best practices for minimizing the error of a network.
 - Mini Project: [Student Admissions in Keras][35]
-  - [Udacity Repo: aind2-dl][15]
+  - Udacity Repo: [aind2-dl][15]
 - Mini Project: [IMDB Data in Keras][35] 
-  - [Udacity Repo: aind2-dl][15]
+  - Udacity Repo: [aind2-dl][15]
   - In this project, you will define and train a neural networks for sentiment analysis (identifying and categorizing opinions expressed in text).
 
 **Lesson 3: Convolutional Neural Networks.** 
@@ -173,15 +173,15 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Alexis and Cezanne explain how Convolutional Neural Networks can be used to identify patterns in images and how they help us dramatically improve performance in image classification tasks.
 - Most people don’t train their own networks on massive datasets. In this lesson, you’ll learn how to finetune and use a pretrained network and apply it to a new task using transfer learning.
 - Mini Project: [Training an MLP on MNIST][36]
-  - [Udacity Repo: aind2-dl][16]
+  - Udacity Repo: [aind2-dl][16]
 - Mini Project: [CNNs in Keras][36]
-  - [Udacity Repo: aind2-cnn][16]
+  - Udacity Repo: [aind2-cnn][16]
 - Mini Project: [Image Augmentation in Keras][36]
-  - [Udacity Repo: aind2-cnn][16]
+  - Udacity Repo: [aind2-cnn][16]
 
 **Lesson 4: CNN Project: Dog Breed Classifier.** 
 - Project: [Dog Breed Classifier][37]
-  - [Udacity Repo: dog-project][17]
+  - Udacity Repo: [dog-project][17]
   - In this project, you will define a Convolutional Neural Network that performs better than the average human when given the task: identifying dog breeds. 
   - Given an image of a dog, your algorithm will produce an estimate of the dog’s breed. 
   - If supplied an image of a human, the code will *also* produce an estimate of the closest- resembling dog breed. 
@@ -189,7 +189,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 
 **Lesson 5: Intro to TensorFlow.** 
 - Lab: [TensorFlow Neural Network][38] 
-  - [Udacity Repo: deep-learning][18]
+  - Udacity Repo: [deep-learning][18]
 
 **Lesson 6: Autoencoders.** 
 - Autoencoders are neural networks used for data compression, image denoising, and dimensionality reduction. 
@@ -212,7 +212,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 **Lesson 12: RNN Project: Time Series Prediction and Text Generation.** 
 ![Apple RNN Prediction](./images/apple_rnn_prediction.png)
 - Project: [Time Series Prediction and Text Generation][39]
-  - [Udacity Repo: aind2-rnn][19]
+  - Udacity Repo: [aind2-rnn][19]
 
 **Lesson 13: Generative Adversarial Networks.** 
 - Ian Goodfellow, the inventor of GANs, introduces you to these exciting models. 
@@ -233,7 +233,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Prepare for the course ahead with a detailed topic overview.
 - Start programming your own applications!
 - Project: [Mimic Me][40]    
-  - [Udacity Repo: AIND-CV-Mimic][20]
+  - Udacity Repo: [AIND-CV-Mimic][20]
 
 **Lesson 2: Image Representation and Analysis.** 
 - See how images are represented numerically.
@@ -253,7 +253,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 **Lesson 5: CV Capstone: Facial Keypoint Detection and Real-time Filtering.** 
 ![Facial keypoint test](./images/facial_keypoint_test.gif)
 - Capstone Project: [Facial Keypoint Detection][41]
-  - [Udacity Repo: AIND-CV-FacialKeypoints][21]
+  - Udacity Repo: [AIND-CV-FacialKeypoints][21]
   - Use image processing techniques and deep learning techniques to detect faces in an image and find facial keypoints, such as the position of the eyes, nose, and mouth on a face.
   - This project tests your knowledge of image processing and feature extraction techniques that allow you to programmatically represent different facial features. 
   - You’ll also use your knowledge of deep learning techniques to program a convolutional neural network to recognize facial keypoints. Facial keypoints include points around the eyes, nose, and mouth on any face and are used in many applications, from facial tracking to emotion recognition.
@@ -263,7 +263,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 
 **Lesson 2: Project: Bookworm (Optional).** 
 - Project: [Bookworm][42]   
-  - [Udacity Repo: AIND-NLP-Bookworm][22] 
+  - Udacity Repo: [AIND-NLP-Bookworm][22] 
 
 **Lesson 3: Natural Language Processing.** 
 - Learn the main techniques used in natural language processing.
@@ -283,11 +283,11 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Learn about the main uses of deep learning models in NLP. 
 - Learn about machine translation, topic models, and sentiment analysis.
 - Lab: [Sentiment Analysis][43]  
-  - [Udacity Repo: AIND-NLP][23]
+  - Udacity Repo: [AIND-NLP][23]
 
 **Lesson 7: NLP Capstone: Machine Translation.** 
 - Capstone Project: [Machine Translation][44]  
-  - [Udacity Repo: aind2-nlp-capstone][24]
+  - Udacity Repo: [aind2-nlp-capstone][24]
   - Build a deep neural network that functions as part of an end-to-end machine translation pipeline. Your completed pipeline will accept English text as input and return the French translation. You’ll be able to explore several recurrent neural network architectures and compare their performance.
   - First you will preprocess the data by converting text to sequence of integers. Then you will build several deep learning models for translating the text into French. As a final step, you will run this models on English test to analyze their performance.
 
@@ -303,19 +303,19 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Get familiar with the most common VUI applications.
 - Set up your AWS account and build Alexa skill with an existing template.
 - Lab 6: [Space Geek][45]   
-  - [Udacity Repo: AIND-VUI-Alexa][25]
+  - Udacity Repo: [AIND-VUI-Alexa][25]
 
 **Lesson 2: Project: Build an Alexa History Skill.** 
 ![Picture](./images/skill_overview.png)  
 - Project: [Alexa History Skill][46]
-  - [Udacity Repo: AIND-VUI-Alexa][25]
+  - Udacity Repo: [AIND-VUI-Alexa][25]
   - Learn the basics of Amazon AWS.
   - Create your own fully functional Alexa skill using Amazon’s API.
   - Deploy your skill for everyone to use it.
 
 **Lesson 3: Lab: Voice Data.** 
 - Lab: [Voice Data Lab][47]   
-  - [Udacity Repo: AIND-VUI-Lab-Voice-Data][26]
+  - Udacity Repo: [AIND-VUI-Lab-Voice-Data][26]
 
 **Lesson 4: Introduction to Speech Recognition.** 
 - Learn the pipeline used for speech recognition.
@@ -325,7 +325,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 **Lesson 4: VUI Capstone: DNN Speech Recognizer.** 
 ![Picture](./images/vui_pipeline.png)  
 - Capstone Project: [DNN Speech Recognizer][48]
-  - [Udacity Repo: AIND-VUI-Capstone][27]
+  - Udacity Repo: [AIND-VUI-Capstone][27]
   - Build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline. The model will convert raw audio into feature representations, which will then turn them into transcribed text.
   - You’ll begin by investigating a dataset, that will be used to train and evaluate your models. Your algorithm will first convert any raw audio to feature representations that are commonly used for ASR. You will then build neural networks that map these features to transcribed text.
 

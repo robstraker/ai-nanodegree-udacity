@@ -177,9 +177,10 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Mini Project: [CNNs in Keras][36]
   - Udacity Repo: [aind2-cnn][16]
 - Mini Project: [Image Augmentation in Keras][36]
-  - Udacity Repo: [aind2-cnn][16]
+  - Udacity Repo: [aind2-cnn][16]  
 
-**Lesson 4: CNN Project: Dog Breed Classifier.** 
+**Lesson 4: CNN Project: Dog Breed Classifier.**  
+![Sample dog classifier output](./images/sample-dog-output.png)  
 - Project: [Dog Breed Classifier][37]
   - Udacity Repo: [dog-project][17]
   - In this project, you will define a Convolutional Neural Network that performs better than the average human when given the task: identifying dog breeds. 
@@ -305,9 +306,9 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Lab 6: [Space Geek][45]   
   - Udacity Repo: [AIND-VUI-Alexa][25]
 
-**Lesson 2: Project: Build an Alexa History Skill.** 
+**Lesson 2: Project: Build an Alexa History Skill.**  
 ![Picture](./images/skill_overview.png)  
-- Project: [Alexa History Skill][46]
+- Project: [Alexa History Skill][46]  
   - Udacity Repo: [AIND-VUI-Alexa][25]
   - Learn the basics of Amazon AWS.
   - Create your own fully functional Alexa skill using Amazon’s API.

@@ -86,7 +86,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 **Lesson 6: Advanced Game Playing.** 
 - Learn techniques used to overcome limitations in basic minimax search like depth-limiting and alpha-beta pruning.
 - Extend adversarial search to non-deterministic domains and domains with more than two players.
-![Example Game of Isolation](./tree/master/images/isolation_game.gif)  
+![Example Game of Isolation](./images/isolation_game.gif)  
 - Project: [Build An Adversarial Game Playing Agent][29]
   - [Udacity Repo: AIND-Isolation][9]
   - Intelligent agents are expected to act in complex domains where their goals and objectives may not be immediately achievable. They must reason about their goals and make rational choices of actions to achieve them. 
@@ -126,7 +126,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Learn high-level features of automated planning techniques using search & symbolic logic including forward planning, backwards planning, & hierarchical planning.
 - Explore planning heuristics & planning graphs.
 
-![Progression State Space Search](/tree/master/images/progression_search.png)  
+![Progression State Space Search](./images/progression_search.png)  
 - Project: [Build A Forward Planning Agent][33]
   - [Udacity Repo: AIND-Planning][13]
   - Intelligent agents are expected to act in complex domains where their goals and objectives may not be immediately achievable. They must reason about their goals and make rational choices of actions to achieve them. 
@@ -210,7 +210,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - In this lesson, you’ll learn to implement a recurrent neural network for predicting sentiment. This is intended to give you more experience building RNNs.
 
 **Lesson 12: RNN Project: Time Series Prediction and Text Generation.** 
-![Apple RNN Prediction](./tree/master/images/apple_rnn_prediction.png)
+![Apple RNN Prediction](./images/apple_rnn_prediction.png)
 - Project: [Time Series Prediction and Text Generation][39]
   - [Udacity Repo: aind2-rnn][19]
 
@@ -251,7 +251,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Use features to identify areas on a face and to recognize the shape of a car or pedestrian on a road.
 
 **Lesson 5: CV Capstone: Facial Keypoint Detection and Real-time Filtering.** 
-![Facial keypoint test](./tree/master/images/facial_keypoint_test.gif)
+![Facial keypoint test](./images/facial_keypoint_test.gif)
 - Capstone Project: [Facial Keypoint Detection][41]
   - [Udacity Repo: AIND-CV-FacialKeypoints][21]
   - Use image processing techniques and deep learning techniques to detect faces in an image and find facial keypoints, such as the position of the eyes, nose, and mouth on a face.
@@ -306,7 +306,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
   - [Udacity Repo: AIND-VUI-Alexa][25]
 
 **Lesson 2: Project: Build an Alexa History Skill.** 
-![Picture](./tree/master/images/skill_overview.png)  
+![Picture](./images/skill_overview.png)  
 - Project: [Alexa History Skill][46]
   - [Udacity Repo: AIND-VUI-Alexa][25]
   - Learn the basics of Amazon AWS.
@@ -323,7 +323,7 @@ For further information on topics and technologies covered, see [TOPICS.md][7].
 - Learn to build probabilistic and machine learning Language models in order to extract words and grammar from sound signals.
 
 **Lesson 4: VUI Capstone: DNN Speech Recognizer.** 
-![Picture](./tree/master/images/vui_pipeline.png)  
+![Picture](./images/vui_pipeline.png)  
 - Capstone Project: [DNN Speech Recognizer][48]
   - [Udacity Repo: AIND-VUI-Capstone][27]
   - Build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline. The model will convert raw audio into feature representations, which will then turn them into transcribed text.
@@ -367,26 +367,26 @@ This project is licensed under the MIT License. See [LICENSE][49] for details.
 [27]:https://github.com/udacity/AIND-VUI-Capstone
 
 [//]: # (Links to Solutions)
-[28]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-1/project-1-sudoku
-[29]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-1/project-2-isolation
-[30]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-1/lab-1-pac-man
-[31]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-1/lab-2-simulated-annealing
-[32]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-1/lab-3-constraint-satisfaction
-[33]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-1/project-3-planning
-[34]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-1/project-4-recognizer
-[35]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-2/mini-Project-1-2-dl-admissions-imdb
-[36]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-2/mini-project-3-4-5-cnn-mlp-keras-image-augmentation
-[37]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-2/project-5-dog-breed-classifier
-[38]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-2/lab-4-deep-learning
-[39]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-2/project-6-rnn-time-series-prediction
-[40]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-2-concentrations/project-7-cv-mimic
-[41]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-2-concentrations/capstone-project-1-cv-facial-keypoint-detection
-[42]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-2-concentrations/project-8-nlp-bookworm
-[43]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-2-concentrations/lab-5-nlp-sentiment-analysis
-[44]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-2-concentrations/capstone-project-2-nlp-machine-translation
-[45]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-2-concentrations/lab-6-vui-space-geek
-[46]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-2-concentrations/project-9-vui-alexa
-[47]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-2-concentrations/lab-7-vui-voice-data
-[48]:https://github.com/robstraker/ai-nanodegree-udacity/blob/tree/term-2-concentrations/capstone-project-3-vui-dnn-speech-recognizer
+[28]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-1/project-1-sudoku
+[29]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-1/project-2-isolation
+[30]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-1/lab-1-pac-man
+[31]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-1/lab-2-simulated-annealing
+[32]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-1/lab-3-constraint-satisfaction
+[33]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-1/project-3-planning
+[34]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-1/project-4-recognizer
+[35]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2/mini-Project-1-2-dl-admissions-imdb
+[36]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2/mini-project-3-4-5-cnn-mlp-keras-image-augmentation
+[37]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2/project-5-dog-breed-classifier
+[38]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2/lab-4-deep-learning
+[39]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2/project-6-rnn-time-series-prediction
+[40]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2-concentrations/project-7-cv-mimic
+[41]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2-concentrations/capstone-project-1-cv-facial-keypoint-detection
+[42]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2-concentrations/project-8-nlp-bookworm
+[43]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2-concentrations/lab-5-nlp-sentiment-analysis
+[44]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2-concentrations/capstone-project-2-nlp-machine-translation
+[45]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2-concentrations/lab-6-vui-space-geek
+[46]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2-concentrations/project-9-vui-alexa
+[47]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2-concentrations/lab-7-vui-voice-data
+[48]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2-concentrations/capstone-project-3-vui-dnn-speech-recognizer
 
 [49]:https://github.com/robstraker/ai-for-iot-developers-nanodegree-udacity/blob/master/LICENSE

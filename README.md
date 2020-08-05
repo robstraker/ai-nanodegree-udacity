@@ -374,7 +374,7 @@ This project is licensed under the MIT License. See [LICENSE][49] for details.
 [32]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-1/lab-3-constraint-satisfaction
 [33]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-1/project-3-planning
 [34]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-1/project-4-recognizer
-[35]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2/mini-Project-1-2-dl-admissions-imdb
+[35]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2/mini-project-1-2-dl-admissions-imdb
 [36]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2/mini-project-3-4-5-cnn-mlp-keras-image-augmentation
 [37]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2/project-5-dog-breed-classifier
 [38]:https://github.com/robstraker/ai-nanodegree-udacity/tree/master/term-2/lab-4-deep-learning

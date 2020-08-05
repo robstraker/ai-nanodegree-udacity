@@ -11,7 +11,7 @@ Offered By: [udacity.com][2]
 ## Introduction
 This repo contains projects, mini projects, and labs for the two-term Artificial Intelligence Nanodegree program offered through Udacity. 
 
-This was the very first offering of this program, which has now been split into two Nanodegrees: AI Nanodegree ([nd891][3]) and Deep Learning Nanodegree ([nd101][4]). As well, the three capstone projects have been expanded into two Nanodegrees: Computer Vision Nanodegree ([nd891][5]) and Natural Language Processing Nanodegree ([nd892][6], combining the NLP and VUI concentrations). 
+This was the very first offering of this program, which has now been split into two Nanodegrees: AI Nanodegree ([nd891][3]) and Deep Learning Nanodegree ([nd101][4]). As well, the three capstone projects have been expanded into two Nanodegrees: Computer Vision Nanodegree ([nd891][5]) and Natural Language Processing Nanodegree ([nd892][6], which combines the NLP and VUI concentrations). 
 
 Feel free to use the material for reference purposes or if you get stuck. However, I would encourage you to try to complete all projects and exercises yourself, so that you can maximize your learning and enjoyment of the program.
 
